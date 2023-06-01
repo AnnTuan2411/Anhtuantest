@@ -1,0 +1,7 @@
+INSERT INTO Cars (car_id, brand, model, color, registration_number, production_year, location_id, status)
+VALUES
+(1, N'Toyota', N'Camry', N'Silver', N'ABC123', 2018, 1, N'Available'),
+(2, N'Honda', N'Accord', N'White', N'DEF456', 2019, 2, N'Available'),
+(3, N'Ford', N'Mustang', N'Red', N'GHI789', 2020, 3, N'Available'),
+(4, N'Chevrolet', N'Cruze', N'Blue', N'JKL012', 2017, 4, N'Available'),
+(5, N'Toyota', N'Rav4', N'Black', N'MNO345', 2021, 1, N'Available');
